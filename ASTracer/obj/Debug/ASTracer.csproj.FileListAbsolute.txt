@@ -1,0 +1,19 @@
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ASTracer.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Comp\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Tracer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Tracer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Tracer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Tracer\ConsoleApp1\obj\Debug\ASTracer.csprojResolveAssemblyReference.cache
+F:\Tracer\ConsoleApp1\obj\Debug\ASTracer.csproj.CoreCompileInputs.cache
+F:\Tracer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Tracer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Tracer\ConsoleApp1\bin\Debug\Jil.dll
+F:\Tracer\ConsoleApp1\bin\Debug\Sigil.dll
+F:\Tracer\ConsoleApp1\bin\Debug\Jil.pdb
+F:\Tracer\ConsoleApp1\bin\Debug\Jil.xml
+F:\Tracer\ConsoleApp1\bin\Debug\Sigil.xml
+F:\Tracer\ConsoleApp1\bin\Debug\ArinWhois.dll
